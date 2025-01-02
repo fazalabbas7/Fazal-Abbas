@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazal Abbas</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.b2bcampus.com/wp-content/uploads/2023/09/Mask-group-60.png">
+<img align="right"alt="coding"width="400"src="https://i.gifer.com/embedded/download/TIbw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazalabbas7&label=Profile%20views&color=0e75b6&style=flat" alt="fazalabbas7" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Spring Cloud, Microservices, and Advanced Java Back-end Techniques.**
