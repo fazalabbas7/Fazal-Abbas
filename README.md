@@ -1,54 +1,8 @@
-<div align="center">
-  <img 
-    src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" 
-    alt="Banner" 
-    class="glowing-banner" 
-  />
+<div align="center" style="box-shadow: 0 0 15px 5px rgba(0, 255, 255, 0.7);">
+  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
 </div>
 
-<style>
-  .glowing-banner {
-    border-radius: 10px;
-    animation: glow 3s infinite alternate, colorChange 5s infinite;
-  }
 
-  @keyframes glow {
-    0% {
-      box-shadow: 0 0 20px rgba(255, 0, 0, 0.8), 
-                  0 0 30px rgba(255, 0, 0, 0.6), 
-                  0 0 40px rgba(255, 0, 0, 0.4);
-    }
-    25% {
-      box-shadow: 0 0 20px rgba(255, 255, 0, 0.8),
-                  0 0 30px rgba(255, 255, 0, 0.6),
-                  0 0 40px rgba(255, 255, 0, 0.4);
-    }
-    50% {
-      box-shadow: 0 0 20px rgba(0, 255, 0, 0.8),
-                  0 0 30px rgba(0, 255, 0, 0.6),
-                  0 0 40px rgba(0, 255, 0, 0.4);
-    }
-    75% {
-      box-shadow: 0 0 20px rgba(0, 255, 255, 0.8),
-                  0 0 30px rgba(0, 255, 255, 0.6),
-                  0 0 40px rgba(0, 255, 255, 0.4);
-    }
-    100% {
-      box-shadow: 0 0 20px rgba(0, 0, 255, 0.8),
-                  0 0 30px rgba(0, 0, 255, 0.6),
-                  0 0 40px rgba(0, 0, 255, 0.4);
-    }
-  }
-
-  @keyframes colorChange {
-    0% {
-      filter: hue-rotate(0deg);
-    }
-    100% {
-      filter: hue-rotate(360deg);
-    }
-  }
-</style>
 <h1 align="center">Hi, I'm Fazal Abbas 👋</h1>
 <p align="center">
   A passionate <strong>Software Developer</strong>, <strong>Web Developer</strong>, and <strong>Graphics Designer</strong> dedicated to creating innovative solutions.
