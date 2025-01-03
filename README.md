@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="auto" alt="Coding Animation">
+  <img src="https://github.com/user-attachments/assets/7b94a5b0-d79b-4970-83f2-8becd269679a" width="500" height="auto" alt="Coding Animation">
 </div>
 
 ---
