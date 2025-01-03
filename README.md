@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
-</div>  add green color and glowing-box animation-container
-
+</div> 
 
 <h1 align="center">Hi, I'm Fazal Abbas 👋</h1>
 <p align="center">
@@ -70,5 +69,23 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
 
 ---
 
+## 🌍 **Location**  
+Lahore, Pakistan
+
+## 📞 **Phone Number**  
+03205484196
+
+---
+
 ## ✨ **Let's Collaborate!**  
 Feel free to reach out for collaborations, freelance projects, or just to say hi! 😊  
+
+---
+
+## ✨ Quote
+
+> "Passion fuels purpose, and purpose drives innovation."  
+
+---
+
+### Thank you for visiting my profile! If you’re interested in collaborating or need my services, feel free to **reach out**. Let’s build something amazing together! 🚀
