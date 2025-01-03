@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7b94a5b0-d79b-4970-83f2-8becd269679a" width="720" height="auto" alt="Coding Animation">
+  <img src="https://github.com/user-attachments/assets/7b94a5b0-d79b-4970-83f2-8becd269679a" width="1080" height="auto" alt="Coding Animation">
 </div>
 
 ---
