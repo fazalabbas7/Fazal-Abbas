@@ -1,29 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" class="glowing-box" />
-</div>
-
-<style>
-  .glowing-box {
-    border: 5px solid #00ff00; /* Green border */
-    box-shadow: 0 0 15px 5px #00ff00; /* Glowing effect */
-    animation: glow 1.5s ease-in-out infinite;
-  }
-
-  @keyframes glow {
-    0% {
-      box-shadow: 0 0 5px 0px #00ff00;
-    }
-    50% {
-      box-shadow: 0 0 15px 5px #00ff00;
-    }
-    100% {
-      box-shadow: 0 0 5px 0px #00ff00;
-    }
-  }
-</style>
-
-
-
+  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
+</div>  add green color and glowing-box animation-container
 
 
 <h1 align="center">Hi, I'm Fazal Abbas 👋</h1>
