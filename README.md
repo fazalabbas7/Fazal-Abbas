@@ -1,6 +1,46 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
+  <img 
+    src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" 
+    alt="Banner" 
+    style="
+      border-radius: 10px; 
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 
+                  0 0 30px rgba(255, 255, 255, 0.6), 
+                  0 0 40px rgba(255, 255, 255, 0.4);
+      animation: glow 3s infinite alternate, colorChange 5s infinite;
+    " 
+  />
 </div>
+
+<style>
+  @keyframes glow {
+    0% {
+      box-shadow: 0 0 20px rgba(255, 0, 0, 0.8),
+                  0 0 30px rgba(255, 0, 0, 0.6),
+                  0 0 40px rgba(255, 0, 0, 0.4);
+    }
+    50% {
+      box-shadow: 0 0 20px rgba(0, 255, 0, 0.8),
+                  0 0 30px rgba(0, 255, 0, 0.6),
+                  0 0 40px rgba(0, 255, 0, 0.4);
+    }
+    100% {
+      box-shadow: 0 0 20px rgba(0, 0, 255, 0.8),
+                  0 0 30px rgba(0, 0, 255, 0.6),
+                  0 0 40px rgba(0, 0, 255, 0.4);
+    }
+  }
+
+  @keyframes colorChange {
+    0% {
+      filter: hue-rotate(0deg);
+    }
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+</style>
+
 
 <h1 align="center">Hi, I'm Fazal Abbas 👋</h1>
 <p align="center">
