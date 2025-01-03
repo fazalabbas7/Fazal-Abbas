@@ -1,5 +1,8 @@
 # 💻 Fazal Abbas - Software Developer | Web Developer | Graphics Designer  
 
+![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+*(Crafting innovative solutions, one line of code at a time!)*  
+
 Hi there! I'm Fazal Abbas, a dedicated and passionate Computer Science graduate with a strong foundation in **Java**, **Python**, and **Spring Boot**. I specialize in creating innovative solutions that combine creativity and technical expertise. Below is an overview of my skills, expertise, and the services I offer.
 
 ---
