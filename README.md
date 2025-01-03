@@ -1,6 +1,10 @@
-<div align="center" style="box-shadow: 0 0 15px 5px rgba(0, 255, 255, 0.7);">
+<div align="center" style="background: linear-gradient(45deg, #ff6f00, #ff4081, #03a9f4, #8bc34a); 
+  padding: 10px; 
+  border-radius: 15px; 
+  box-shadow: 0 0 25px 10px rgba(255, 105, 180, 0.7), 0 0 30px 15px rgba(0, 255, 255, 0.7);">
   <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
 </div>
+
 
 
 <h1 align="center">Hi, I'm Fazal Abbas 👋</h1>
