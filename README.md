@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazal Abbas</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/da704719-4759-44bf-aa72-51f0a7598944">
+<img align="right" alt="coding" width="720" src="https://github.com/user-attachments/assets/da704719-4759-44bf-aa72-51f0a7598944">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazalabbas7&label=Profile%20views&color=0e75b6&style=flat" alt="fazalabbas7" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Spring Cloud, Microservices, and Advanced Java Back-end Techniques.**
