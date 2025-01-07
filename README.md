@@ -47,10 +47,6 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
 ### 🎨 **Graphics Design Projects**  
 1. Custom Logos and Branding Kits  
 2. Social Media Campaign Graphics  
-add java backend project ,
-add more projects
-Developed a system for real-time room bookings with user authentication, availability checks, and payment processing using Java and Hibernate.
----
 
 ## 📊 **Stats**  
 
