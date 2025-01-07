@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 **About Me**  
-I'm a fresher and a motivated Computer Science graduate with expertise in:  
+I'm a Software Developer and a motivated Software Engineering with expertise in:  
 - **Java Backend Development** (Spring Boot, Hibernate, RESTful APIs)  
 - **Frontend Development** (React, Angular, Vue.js)  
 - **Graphics Design** (Photoshop, Illustrator, UI/UX Design)  
@@ -37,17 +37,39 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
 
 ## 💼 **Portfolio**  
 
-### 🌐 **Web Development Projects**  
-1. **E-Commerce Backend**  
-   - Scalable backend with secure payments, MySQL integration, and AWS deployment.  
+**🌐 Web Development Projects**
+E-Commerce Backend
 
-2. **Virtual Clothing App**  
-   - An AR-based Android app for trying out clothes virtually.  
+Scalable backend with secure payments, MySQL integration, and AWS deployment.
+Virtual Clothing App
 
-### 🎨 **Graphics Design Projects**  
-1. Custom Logos and Branding Kits  
-2. Social Media Campaign Graphics  
+An AR-based Android app for trying out clothes virtually.
+Learning Management System (LMS)
 
+Developed a comprehensive system for managing courses, students, and instructors using Java and Spring Boot. Included features like user authentication, course creation, scheduling, and progress tracking with a responsive frontend interface.
+Elite Code Solutions Website (In Progress)
+
+Designing a professional, fast, and user-friendly website showcasing services, projects, and an interactive portfolio.
+🎨 Graphics Design Projects
+Custom Logos and Branding Kits
+
+Designed unique logos and branding materials tailored to various industries.
+Social Media Campaign Graphics
+
+Created eye-catching graphics for marketing campaigns, boosting engagement and brand visibility.
+Event Flyers and Brochures
+
+Designed aesthetically pleasing flyers and brochures for events, ensuring a balance between creativity and information clarity.
+**🖥** Java Backend Development Projects
+E-Commerce Platform Backend
+
+A robust backend system featuring product catalog management, order processing, and secure user authentication.
+Library Management System
+
+Built a library automation tool with features like book inventory management, user borrowing history, and overdue notifications, using Java, Spring Boot, and MySQL.
+Hotel Booking System
+
+Developed a system for real-time room bookings with user authentication, availability checks, and payment processing using Java and Hibernate.
 ---
 
 ## 📊 **Stats**  
