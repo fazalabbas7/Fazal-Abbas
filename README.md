@@ -1,17 +1,18 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Fazal%20Abbas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=💻Fazal%20Abbas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Java+Back-end+Developer;Front-end+Developer;Software+Engineer;UI/UX+Designer&center=true&width=600&height=60&textColor=FF6F61,6B5B95,88D8B0,F7CAC9,FFD700&fontSize=50&cursorColor=FF6F61&duration=2000&pause=1000&repeat=true&backgroundColor=ffffff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💕Full-Stack+Developer;Java+Back-end+Developer;Front-end+Developer;Software+Engineer;UI/UX+Designer💕&center=true&width=600&height=60&textColor=FF6F61,6B5B95,88D8B0,F7CAC9,FFD700&fontSize=50&cursorColor=FF6F61&duration=2000&pause=1000&repeat=true&backgroundColor=ffffff">
   </a>
 </h1>
 
 <p align="center">
-  A passionate <strong>Software Developer</strong>, <strong>Web Developer</strong>, and <strong>Graphics Designer</strong> dedicated to creating innovative solutions.
+  <strong> 💗A passionate <strong>Software Developer</strong>, <strong>Web Developer</strong>, <strong>Graphics Designer</strong>, <strong>Java Back-end Developer</strong>, <strong>Front-end Developer</strong>, <strong>UI/UX Designer</strong>, and <strong>Software Engineer</strong> dedicated to creating innovative solutions.<strong>
 </p>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7b94a5b0-d79b-4970-83f2-8becd269679a" width="1080" height="auto" alt="Coding Animation">
@@ -19,7 +20,7 @@
 
 <!-- Fixed GitHub Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fazalabbas&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fazalabbas&style=for-the-badge&color=blue" alt="Profile Views"/>💕
 </p>
 
 <!-- Accurate GitHub Statistics -->
@@ -81,7 +82,16 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+  <!-- Added Roles -->
+  ![Java Back-end Developer](https://img.shields.io/badge/Java%20Back--end%20Developer-%230092A1.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Front-end Developer](https://img.shields.io/badge/Front--end%20Developer-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Developer](https://img.shields.io/badge/Developer-%230077B5.svg?style=for-the-badge&logo=developer&logoColor=white)
+  ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%23663399.svg?style=for-the-badge&logo=engineering&logoColor=white)
+  ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX%20Designer-%23FF4081.svg?style=for-the-badge&logo=adobe&logoColor=white)
+  
 </div>
+
 
 ---
 
