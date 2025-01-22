@@ -124,7 +124,7 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
 ---
 
 ## ✨ **Let's Collaborate!**
-Feel free to reach out for collaborations, freelance projects, or just to say hi! 😊
+Feel free to reach out for collaborations, projects, or just to say hi! 😊
 
 ### Thank you for visiting my profile! If you're interested in collaborating or need my services, feel free to **reach out**. Let's build something amazing together! 🚀
 
