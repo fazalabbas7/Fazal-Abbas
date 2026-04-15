@@ -113,7 +113,7 @@ I aim to provide seamless, user-friendly, and high-performing solutions to clien
 ## 🌍 **Location & Contact**
 <div align="center">
   <h3>🌍 Lahore, Pakistan</h3>
-  <h3>📞 03205484196</h3>
+  <h3>📧 fazalabbas.dev@gmail.com</h3>
 </div>
 
 ---
